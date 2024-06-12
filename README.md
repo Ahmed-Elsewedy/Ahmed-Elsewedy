@@ -50,6 +50,7 @@
 ## :computer: TECHNICAL SKILLS
 
 ### :wrench: Backend Development:
+<img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql" width="120" height="40">&nbsp;
 <img src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs" width="120" height="40">&nbsp;
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" width="120" height="40">&nbsp; 
 <img src="https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express" width="120" height="40">&nbsp; 
